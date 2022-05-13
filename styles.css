@@ -1,0 +1,84 @@
+body {
+    color: black;
+    text-align: center;
+    font-family: 'Staatliches', sans-serif;
+}
+
+.title {
+    font-size: 40px;
+    background-color: blue;
+    font-weight: 800;
+    padding: 0 20px;
+}
+
+.partone {
+    display: flex;
+    justify-content: center;
+}
+.button {
+    display: flex;
+    justify-content: center;
+
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+.firstImage {
+    height: 350px;
+}
+
+.yes-button {
+    height: 40px;
+}
+
+
+.Part-Two-happy {
+    font-family: 'Coiny', cursive;
+}
+
+
+.Part-Two-sad {
+    font-family: 'sad', cursive;
+}
+
+.Story-Ending-happy {
+    font-family: 'happy', cursive;
+}
+
+.Story-Ending-sad {
+    font-family: 'sad', cursive;
+}
+
+.sadpicture {
+    height: 100px;
+}
+
+h1 {
+    font-size: 20px;
+    color: black;
+}
+
+.Part-Two-happy {
+    display: none;
+}
+
+.Part-Two-sad {
+    display: none;
+}
+
+.sadpicture {
+    display: none;
+}
+
+.Story-Ending-sadlist {
+    display: none;
+}
+
+.Story-Ending-sad {
+    display: none;
+}
+
